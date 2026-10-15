@@ -110,20 +110,15 @@ I'm a **Software Developer** who loves transforming complex problems into clean,
 
 <div align="center">
 
-<a href="https://linkedin.com/in/archana-yadav-b7639b28b">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32" /> <b>LinkedIn</b>
-</a>
-&emsp;&emsp;&emsp;
-<a href="mailto:archanayadav2737@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="32" height="32" /> <b>Gmail</b>
-</a>
-&emsp;&emsp;&emsp;
-<a href="https://github.com/CodeWithArchanaYadav">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" /> <b>GitHub</b>
-</a>
+<a href="https://linkedin.com/in/archana-yadav-b7639b28b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:archanayadav2737@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/CodeWithArchanaYadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCWX5Z-FLDMXYQUVDHJYOLCG"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 </div>
-
 ---
 
 <div align="center">
