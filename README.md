@@ -6,7 +6,7 @@ IMPORTANT:
 -->
 
 <div align="center">
-  <img src="assets/animated_github_banner.gif" alt="Animated technology banner" width="420" />
+  <img src="assets/animated_github_banner.gif" alt="Animated technology banner" width="100%" />
 
   <h1>Hi 👋, I'm Archana Yadav</h1>
   <h3>Software Developer | Aspiring Software Engineer | Full Stack Developer</h3>
