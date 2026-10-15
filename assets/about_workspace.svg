@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" width="360" height="260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#559BFF"/><stop offset="1" stop-color="#6C63FF"/>
+    </linearGradient>
+    <style>
+      .m{font-family:Consolas,Menlo,'Courier New',monospace;font-size:11px}
+      .float1{animation:fl 4s ease-in-out infinite}
+      .float2{animation:fl 5s ease-in-out infinite reverse}
+      .float3{animation:fl 6s ease-in-out infinite}
+      .cur{animation:bl 1s steps(1) infinite}
+      .spin{animation:sp 12s linear infinite;transform-origin:306px 70px}
+      @keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      @keyframes bl{50%{opacity:0}}
+      @keyframes sp{to{transform:rotate(360deg)}}
+    </style>
+  </defs>
+  <rect width="360" height="260" rx="16" fill="url(#bg)"/>
+  <circle cx="60" cy="210" r="70" fill="#fff" opacity="0.08"/>
+  <circle cx="320" cy="40" r="50" fill="#fff" opacity="0.08"/>
+
+  <!-- laptop -->
+  <rect x="62" y="52" width="236" height="148" rx="10" fill="#2B1B7A"/>
+  <rect x="70" y="60" width="220" height="132" rx="6" fill="#14122E"/>
+  <circle cx="82" cy="72" r="3.5" fill="#FF5F57"/><circle cx="94" cy="72" r="3.5" fill="#FEBC2E"/><circle cx="106" cy="72" r="3.5" fill="#28C840"/>
+  <g class="m">
+    <text x="82" y="96"  fill="#7C7FA8">// build. learn. ship.</text>
+    <text x="82" y="114"><tspan fill="#C792EA">const </tspan><tspan fill="#82AAFF">dev </tspan><tspan fill="#E5E7FF">= {</tspan></text>
+    <text x="96" y="132"><tspan fill="#E5E7FF">name: </tspan><tspan fill="#C3E88D">"Archana"</tspan><tspan fill="#E5E7FF">,</tspan></text>
+    <text x="96" y="148"><tspan fill="#E5E7FF">focus: </tspan><tspan fill="#C3E88D">"Full Stack"</tspan><tspan fill="#E5E7FF">,</tspan></text>
+    <text x="96" y="164"><tspan fill="#E5E7FF">coffee: </tspan><tspan fill="#FFCB6B">true</tspan></text>
+    <text x="82" y="180"><tspan fill="#E5E7FF">};</tspan><tspan class="cur" fill="#F03CFF"> ▌</tspan></text>
+  </g>
+  <path d="M40 200 H322 L308 218 H54 Z" fill="#E9ECFF"/>
+  <rect x="150" y="200" width="60" height="5" rx="2.5" fill="#B9BDE8"/>
+
+  <!-- floating badges -->
+  <g class="float1">
+    <rect x="14" y="70" width="58" height="34" rx="10" fill="#F03CFF"/>
+    <text x="43" y="93" text-anchor="middle" font-family="Consolas,monospace" font-size="17" font-weight="bold" fill="#fff">&lt;/&gt;</text>
+  </g>
+  <g class="float2">
+    <rect x="288" y="110" width="58" height="34" rx="10" fill="#fff"/>
+    <text x="317" y="133" text-anchor="middle" font-family="Consolas,monospace" font-size="17" font-weight="bold" fill="#5B2BE0">{ }</text>
+  </g>
+  <g class="float3">
+    <rect x="22" y="146" width="54" height="30" rx="10" fill="#FFCB6B"/>
+    <text x="49" y="166" text-anchor="middle" font-family="Consolas,monospace" font-size="14" font-weight="bold" fill="#2B1B7A">Java</text>
+  </g>
+  <!-- gear -->
+  <g class="spin">
+    <circle cx="306" cy="70" r="16" fill="none" stroke="#fff" stroke-width="6" stroke-dasharray="6 4"/>
+    <circle cx="306" cy="70" r="6" fill="#fff"/>
+  </g>
+  <!-- bulb -->
+  <g>
+    <circle cx="170" cy="30" r="12" fill="#FFE45C" opacity="0.9"/>
+    <rect x="164" y="40" width="12" height="6" rx="2" fill="#2B1B7A"/>
+  </g>
+</svg>
