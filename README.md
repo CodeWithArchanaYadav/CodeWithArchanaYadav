@@ -9,7 +9,7 @@ IMPORTANT:
   <img src="assets/animated_github_banner.gif" alt="Animated technology banner" width="100%" />
 
   <h1>Hi 👋, I'm Archana Yadav</h1>
-  <h3>Software Developer | Aspiring Software Engineer | Full Stack Developer</h3>
+  <h3>Software Developer | Aspiring Software Engineer | Full Stack Developer | System Design</h3>
   <p><em>Turning complex problems into simple solutions.</em></p>
 
   <a href="https://github.com/CodeWithArchanaYadav">
@@ -108,9 +108,21 @@ I'm a **Software Developer** who loves transforming complex problems into clean,
 
 ## 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/archana-yadav-b7639b28b"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWX5Z-FLDMXYQUVDHJYOLCG"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://github.com/CodeWithArchanaYadav"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+<div align="center">
+
+<a href="https://linkedin.com/in/archana-yadav-b7639b28b">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32" /> <b>LinkedIn</b>
+</a>
+&emsp;&emsp;&emsp;
+<a href="mailto:archanayadav2737@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="32" height="32" /> <b>Gmail</b>
+</a>
+&emsp;&emsp;&emsp;
+<a href="https://github.com/CodeWithArchanaYadav">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" /> <b>GitHub</b>
+</a>
+
+</div>
 
 ---
 
